@@ -1,0 +1,20 @@
+{
+    "name": "bootstrap-responsive-tabs",
+    "version": "dev-master",
+    "homepage": "http://openam.github.io/bootstrap-responsive-tabs/",
+    "description": "Responsive Bootstrap Tab.",
+    "main": "dist/bootstrap-responsive-tabs.js",
+    "keywords": [
+        "bootstrap",
+        "foundation",
+        "responsive"
+    ],
+    "ignore": [
+        "node_modules",
+        "null"
+    ],
+    "dependencies": {
+        "bootstrap": ">= 3.0.0"
+    },
+    "license": "MIT"
+}
