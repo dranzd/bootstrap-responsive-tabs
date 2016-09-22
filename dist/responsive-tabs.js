@@ -1,4 +1,11 @@
-var fakewaffle = ( function ( $, fakewaffle ) {
+/*!
+ * Responsive Bootstrap Responsive Tabs
+ * Author:    Michael Tuttle
+ * License:   MIT
+ * Version:   0.0.1
+ * Origin:    https://github.com/openam/bootstrap-responsive-tabs
+ */
+ var fakewaffle = ( function ( $, fakewaffle ) {
 	'use strict';
 
 	fakewaffle.responsiveTabs = function ( collapseDisplayed ) {
